@@ -106,6 +106,6 @@
 ## 📬 联系方式
 
 - GitHub：Beihai-North
-- 电子邮件：your-email@example.com
+- 电子邮件：jinhai.ma@icloud.com
 
 欢迎查看我的项目，如有任何问题或建议，请随时联系我！
