@@ -1,0 +1,110 @@
+[[main]]
+  name = "Home"
+  pageRef = "index"
+  weight = 1
+
+[[main]]
+  name = "Tech"
+  weight = 2
+
+  [[main]]
+  name = "Prog"
+  parent = "Tech"
+  pageRef = "programming-languages"
+  weight = 1
+
+  [[main]]
+  name = "OS"
+  parent = "Tech"
+  pageRef = "operating-systems"
+  weight = 2
+
+  [[main]]
+  name = "Ops"
+  parent = "Tech"
+  pageRef = "operations"
+  weight = 3
+
+  [[main]]
+  name = "Network"
+  parent = "Tech"
+  pageRef = "networking"
+  weight = 4
+
+  [[main]]
+  name = "AI"
+  parent = "Tech"
+  pageRef = "artificial-intelligence"
+  weight = 5
+
+  [[main]]
+  name = "DB"
+  parent = "Tech"
+  pageRef = "databases"
+  weight = 6
+
+  [[main]]
+  name = "Frontend"
+  parent = "Tech"
+  pageRef = "frontend-development"
+  weight = 7
+
+  [[main]]
+  name = "Backend"
+  parent = "Tech"
+  pageRef = "backend-development"
+  weight = 8
+
+[[main]]
+  name = "Tools"
+  pageRef = "tools"
+  weight = 3
+
+[[main]]
+  name = "Tutorials"
+  pageRef = "tutorials"
+  weight = 4
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 5
+
+[[main]]
+  name = "Profile"
+  pageRef = "profile"
+  weight = 6
+
+[[main]]
+  name = "GitHub"
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/Beihai-North"
+  weight = 20
+
+[[main]]
+  name = "Douyin"
+  identifier = "tiktok"
+  pre = "tiktok"
+  url = "https://v.douyin.com/ir3DatCr/"
+  weight = 30
+
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy-policy"
+  weight = 10
+
+[[footer]]
+  name = "Terms"
+  pageRef = "terms-of-service"
+  weight = 20
+
+[[footer]]
+  name = "Sitemap"
+  pageRef = "sitemap"
+  weight = 30
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 40

@@ -1,0 +1,110 @@
+[[main]]
+  name = "Home"
+  pageRef = "index"
+  weight = 1
+
+[[main]]
+  name = "Tecnica"
+  weight = 2
+
+  [[main]]
+  name = "Programmi"
+  parent = "Tecnica"
+  pageRef = "programming-languages"
+  weight = 1
+
+  [[main]]
+  name = "Sistemi"
+  parent = "Tecnica"
+  pageRef = "operating-systems"
+  weight = 2
+
+  [[main]]
+  name = "Ops"
+  parent = "Tecnica"
+  pageRef = "operations"
+  weight = 3
+
+  [[main]]
+  name = "Reti"
+  parent = "Tecnica"
+  pageRef = "networking"
+  weight = 4
+
+  [[main]]
+  name = "AI"
+  parent = "Tecnica"
+  pageRef = "artificial-intelligence"
+  weight = 5
+
+  [[main]]
+  name = "Database"
+  parent = "Tecnica"
+  pageRef = "databases"
+  weight = 6
+
+  [[main]]
+  name = "Frontend"
+  parent = "Tecnica"
+  pageRef = "frontend-development"
+  weight = 7
+
+  [[main]]
+  name = "Backend"
+  parent = "Tecnica"
+  pageRef = "backend-development"
+  weight = 8
+
+[[main]]
+  name = "Strumenti"
+  pageRef = "tools"
+  weight = 3
+
+[[main]]
+  name = "Tutorial"
+  pageRef = "tutorials"
+  weight = 4
+
+[[main]]
+  name = "Progetti"
+  pageRef = "projects"
+  weight = 5
+
+[[main]]
+  name = "Profilo"
+  pageRef = "profile"
+  weight = 6
+
+[[main]]
+  name = "GitHub"
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/Beihai-North"
+  weight = 20
+
+[[main]]
+  name = "Douyin"
+  identifier = "tiktok"
+  pre = "tiktok"
+  url = "https://v.douyin.com/ir3DatCr/"
+  weight = 30
+
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy-policy"
+  weight = 10
+
+[[footer]]
+  name = "Termini"
+  pageRef = "terms-of-service"
+  weight = 20
+
+[[footer]]
+  name = "Mappa"
+  pageRef = "sitemap"
+  weight = 30
+
+[[footer]]
+  name = "Contatti"
+  pageRef = "contact"
+  weight = 40

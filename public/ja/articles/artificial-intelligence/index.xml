@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🤖 人工知能 on 北海北</title>
+    <link>http://localhost:1313/ja/articles/artificial-intelligence/</link>
+    <description>Recent content in 🤖 人工知能 on 北海北</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>jinhai.ma@icloud.com (北海北)</managingEditor>
+    <webMaster>jinhai.ma@icloud.com (北海北)</webMaster>
+    <copyright>著作権？もちろん私のものです！:wink:  © 2024 マー・ジンハイ</copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ja/articles/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,111 @@
+[[main]]
+  name = "主页"
+  pageRef = "index"
+  weight = 1
+
+[[main]]
+  name = "技术文章"
+  weight = 2
+
+  [[main]]
+  name = "编程语言"
+  parent = "技术文章"
+  pageRef = "programming-languages"
+  weight = 1
+
+  [[main]]
+  name = "操作系统"
+  parent = "技术文章"
+  pageRef = "operating-systems"
+  weight = 2
+
+  [[main]]
+  name = "运维"
+  parent = "技术文章"
+  pageRef = "operations"
+  weight = 3
+
+  [[main]]
+  name = "网络"
+  parent = "技术文章"
+  pageRef = "networking"
+  weight = 4
+
+  [[main]]
+  name = "人工智能"
+  parent = "技术文章"
+  pageRef = "artificial-intelligence"
+  weight = 5
+
+  [[main]]
+  name = "数据库"
+  parent = "技术文章"
+  pageRef = "databases"
+  weight = 6
+
+  [[main]]
+  name = "前端开发"
+  parent = "技术文章"
+  pageRef = "frontend-development"
+  weight = 7
+
+  [[main]]
+  name = "后端开发"
+  parent = "技术文章"
+  pageRef = "backend-development"
+  weight = 8
+
+[[main]]
+  name = "开发工具"
+  pageRef = "tools"
+  weight = 3
+
+[[main]]
+  name = "教程"
+  pageRef = "tutorials"
+  weight = 4
+
+[[main]]
+  name = "项目展示"
+  pageRef = "projects"
+  weight = 5
+
+[[main]]
+  name = "关于我"
+  pageRef = "profile"
+  weight = 6
+
+[[main]]
+  name = "GitHub"
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/Beihai-North"
+  weight = 20
+
+[[main]]
+  name = "Douyin"
+  identifier = "tiktok"
+  pre = "tiktok"
+  url = "https://v.douyin.com/ir3DatCr/"
+  weight = 30
+
+
+[[footer]]
+  name = "隐私政策"
+  pageRef = "privacy-policy"
+  weight = 10
+
+[[footer]]
+  name = "使用条款"
+  pageRef = "terms-of-service"
+  weight = 20
+
+[[footer]]
+  name = "站点地图"
+  pageRef = "sitemap"
+  weight = 30
+
+[[footer]]
+  name = "联系我们"
+  pageRef = "contact"
+  weight = 40

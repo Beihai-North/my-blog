@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🎓 Resume | Computer Science and Technology on Beihai North</title>
+    <link>http://localhost:1313/en/it/profile/resume/</link>
+    <description>Recent content in 🎓 Resume | Computer Science and Technology on Beihai North</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jinhai.ma@icloud.com (Beihai North)</managingEditor>
+    <webMaster>jinhai.ma@icloud.com (Beihai North)</webMaster>
+    <copyright>Copyright? Of course it&#39;s mine! :wink:  © 2024 Jinhai Ma</copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/it/profile/resume/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

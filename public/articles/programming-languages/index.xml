@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>💻 编程语言 on 北海北</title>
+    <link>http://localhost:1313/articles/programming-languages/</link>
+    <description>Recent content in 💻 编程语言 on 北海北</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>jinhai.ma@icloud.com (北海北)</managingEditor>
+    <webMaster>jinhai.ma@icloud.com (北海北)</webMaster>
+    <copyright>版权？当然是我的！:wink:  © 2024 马金海</copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/articles/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🐍 探索 Java 的世界</title>
+      <link>http://localhost:1313/articles/programming-languages/java/1/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <author>jinhai.ma@icloud.com (北海北)</author>
+      <guid>http://localhost:1313/articles/programming-languages/java/1/</guid>
+      <description>👋 欢迎来到 Java 专区！ Python 是一门强大且易学的编程语言，广泛应用于数</description>
+      
+    </item>
+    
+    <item>
+      <title>🐍 探索 Java 的世界</title>
+      <link>http://localhost:1313/articles/programming-languages/java/2/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <author>jinhai.ma@icloud.com (北海北)</author>
+      <guid>http://localhost:1313/articles/programming-languages/java/2/</guid>
+      <description>👋 欢迎来到 Java 专区！ Python 是一门强大且易学的编程语言，广泛应用于数</description>
+      
+    </item>
+    
+    <item>
+      <title>🐍 探索 Java 的世界</title>
+      <link>http://localhost:1313/articles/programming-languages/java/3/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <author>jinhai.ma@icloud.com (北海北)</author>
+      <guid>http://localhost:1313/articles/programming-languages/java/3/</guid>
+      <description>👋 欢迎来到 Java 专区！ Python 是一门强大且易学的编程语言，广泛应用于数</description>
+      
+    </item>
+    
+    <item>
+      <title>🐍 探索 Python 的世界</title>
+      <link>http://localhost:1313/articles/programming-languages/python/1/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <author>jinhai.ma@icloud.com (北海北)</author>
+      <guid>http://localhost:1313/articles/programming-languages/python/1/</guid>
+      <description>👋 欢迎来到 Python 专区！ Python 是一门强大且易学的编程语言，广泛应用于数</description>
+      
+    </item>
+    
+    <item>
+      <title>🐍 探索 Python 的世界</title>
+      <link>http://localhost:1313/articles/programming-languages/python/2/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <author>jinhai.ma@icloud.com (北海北)</author>
+      <guid>http://localhost:1313/articles/programming-languages/python/2/</guid>
+      <description>👋 欢迎来到 Python 专区！ Python 是一门强大且易学的编程语言，广泛应用于数</description>
+      
+    </item>
+    
+    <item>
+      <title>🐍 探索 Python 的世界</title>
+      <link>http://localhost:1313/articles/programming-languages/python/3/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <author>jinhai.ma@icloud.com (北海北)</author>
+      <guid>http://localhost:1313/articles/programming-languages/python/3/</guid>
+      <description>👋 欢迎来到 Python 专区！ Python 是一门强大且易学的编程语言，广泛应用于数</description>
+      
+    </item>
+    
+  </channel>
+</rss>

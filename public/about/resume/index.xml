@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🎓 个人简历 | 计算机科学与技术专业 on 北海北</title>
+    <link>http://localhost:1313/about/resume/</link>
+    <description>Recent content in 🎓 个人简历 | 计算机科学与技术专业 on 北海北</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>jinhai.ma@icloud.com (北海北)</managingEditor>
+    <webMaster>jinhai.ma@icloud.com (北海北)</webMaster>
+    <copyright>版权？当然是我的！:wink:  © 2024 马金海</copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/about/resume/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 4
+title = "Beihai North"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/blowfish_logo_transparent.png"
+  description = "A personal blog sharing programming tips and technical insights."
+  copyright = "Copyright? Of course it's mine! :wink:  © 2024 Jinhai Ma"
+
+[author]
+  name = "Beihai North"
+  email = "jinhai.ma@icloud.com"
+  image = "img/logo.jpg"
+  headline = "Technology enthusiast and creator, sharing the brilliance of coding and development"
+  bio = "I'm Jinhai Ma, a tech blogger and developer. I'm passionate about coding, frontend, and backend technologies, and I dedicate my blog to sharing valuable programming tips, tool guides, and project experiences. With years of development experience, I specialize in Python and JavaScript project development. Here, you will find in-depth articles on C++, Android development, Linux configuration, and AI deployment. Through my sharing, I hope to help more people master technology and solve real-world problems."
+  links = [
+    { email = "mailto:jinhai.ma@icloud.com" },
+    { tiktok = "https://v.douyin.com/ir3DatCr/" },
+    { github = "https://github.com/Beihai-North" },
+  ]

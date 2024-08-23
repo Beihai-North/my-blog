@@ -1,0 +1,110 @@
+[[main]]
+  name = "ホーム"
+  pageRef = "index"
+  weight = 1
+
+[[main]]
+  name = "技術"
+  weight = 2
+
+  [[main]]
+  name = "プログラム"
+  parent = "技術"
+  pageRef = "programming-languages"
+  weight = 1
+
+  [[main]]
+  name = "OS"
+  parent = "技術"
+  pageRef = "operating-systems"
+  weight = 2
+
+  [[main]]
+  name = "運用"
+  parent = "技術"
+  pageRef = "operations"
+  weight = 3
+
+  [[main]]
+  name = "ネット"
+  parent = "技術"
+  pageRef = "networking"
+  weight = 4
+
+  [[main]]
+  name = "AI"
+  parent = "技術"
+  pageRef = "artificial-intelligence"
+  weight = 5
+
+  [[main]]
+  name = "DB"
+  parent = "技術"
+  pageRef = "databases"
+  weight = 6
+
+  [[main]]
+  name = "前端"
+  parent = "技術"
+  pageRef = "frontend-development"
+  weight = 7
+
+  [[main]]
+  name = "後端"
+  parent = "技術"
+  pageRef = "backend-development"
+  weight = 8
+
+[[main]]
+  name = "ツール"
+  pageRef = "tools"
+  weight = 3
+
+[[main]]
+  name = "チュート"
+  pageRef = "tutorials"
+  weight = 4
+
+[[main]]
+  name = "プロジェクト"
+  pageRef = "projects"
+  weight = 5
+
+[[main]]
+  name = "プロフィール"
+  pageRef = "profile"
+  weight = 6
+
+[[main]]
+  name = "GitHub"
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/Beihai-North"
+  weight = 20
+
+[[main]]
+  name = "Douyin"
+  identifier = "tiktok"
+  pre = "tiktok"
+  url = "https://v.douyin.com/ir3DatCr/"
+  weight = 30
+
+[[footer]]
+  name = "プライバシー"
+  pageRef = "privacy-policy"
+  weight = 10
+
+[[footer]]
+  name = "規約"
+  pageRef = "terms-of-service"
+  weight = 20
+
+[[footer]]
+  name = "サイトマップ"
+  pageRef = "sitemap"
+  weight = 30
+
+[[footer]]
+  name = "連絡先"
+  pageRef = "contact"
+  weight = 40

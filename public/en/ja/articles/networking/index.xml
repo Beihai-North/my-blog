@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Blowfish! :tada: on Beihai North</title>
+    <link>http://localhost:1313/en/ja/articles/networking/</link>
+    <description>Recent content in Welcome to Blowfish! :tada: on Beihai North</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jinhai.ma@icloud.com (Beihai North)</managingEditor>
+    <webMaster>jinhai.ma@icloud.com (Beihai North)</webMaster>
+    <copyright>Copyright? Of course it&#39;s mine! :wink:  © 2024 Jinhai Ma</copyright>
+    <atom:link href="http://localhost:1313/en/ja/articles/networking/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

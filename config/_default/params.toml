@@ -1,0 +1,246 @@
+# 配置主题的配色方案
+colorScheme = "blowfish"
+# 设置默认外观模式（light 或 dark）
+defaultAppearance = "dark" 
+# 根据用户系统设置自动切换外观模式
+autoSwitchAppearance = true
+
+# 启用站内搜索功能
+enableSearch = true
+# 启用代码块复制功能
+enableCodeCopy = true
+
+# 禁用通过电子邮件回复的功能
+replyByEmail = false
+
+# 指定网站的主要内容部分
+mainSections = ["articles"]
+
+# 禁用图片优化（false表示启用优化）
+disableImageOptimization = false
+# 是否禁用页眉中的文本显示
+disableTextInHeader = false
+
+# 设置默认背景图片路径
+defaultBackgroundImage = "/img/wallhaven-eyzx5k.jpg"
+# 设置默认特色图片路径
+defaultFeaturedImage = "/img/featured.svg"
+
+# 高亮当前菜单项
+highlightCurrentMenuArea = true
+# 启用智能目录功能
+smartTOC = true
+# 不隐藏目录中未聚焦的子项
+smartTOCHideUnfocusedChildren = false
+
+[header]
+  # 设置页眉的布局方式
+  layout = "fixed" 
+
+[footer]
+  # 在页脚中显示菜单
+  showMenu = true
+  # 在页脚中显示版权信息
+  showCopyright = true
+  # 显示主题的归属信息
+  showThemeAttribution = false
+  # 显示外观切换器
+  showAppearanceSwitcher = true
+  # 显示返回顶部按钮
+  showScrollToTop = true
+
+[homepage]
+  # 设置首页的布局风格
+  layout = "background" 
+  # 设置首页的背景图片路径
+  homepageImage = "/img/wallhaven-eyzx5k.jpg"
+  # 显示最近更新的文章
+  showRecent = true
+  # 设置显示的最近更新文章数量
+  showRecentItems = 6
+  # 显示“更多”链接
+  showMoreLink = false
+  # 设置“更多”链接的目标页面
+  showMoreLinkDest = "articles"
+  # 启用卡片视图
+  cardView = true
+  # 禁用根据屏幕宽度切换卡片视图
+  cardViewScreenWidth = false
+  # 启用背景模糊效果（仅在布局为background时有效）
+  layoutBackgroundBlur = true 
+
+[article]
+  # 不显示文章发布日期
+  showDate = false
+  # 不显示文章浏览量
+  showViews = false
+  # 不显示文章点赞数
+  showLikes = false
+  # 不仅限于在文章内部显示发布日期
+  showDateOnlyInArticle = false
+  # 不显示文章更新时间
+  showDateUpdated = false
+  # 显示文章作者
+  showAuthor = true
+  # 显示文章头图
+  showHero = true
+  # 设置文章头图的风格
+  heroStyle = "background" 
+  # 启用背景模糊效果（仅在heroStyle为background时有效）
+  layoutBackgroundBlur = true 
+  # 显示面包屑导航
+  showBreadcrumbs = true
+  # 标记草稿文章
+  showDraftLabel = true
+  # 显示编辑链接
+  showEdit = false
+  # 设置编辑链接的URL路径
+  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  # 在编辑链接中附加路径
+  editAppendPath = true
+  # 不展开系列文章
+  seriesOpened = false
+  # 显示标题锚点
+  showHeadingAnchors = true
+  # 显示分页导航
+  showPagination = true
+  # 不反转分页顺序
+  invertPagination = false
+  # 显示阅读时间
+  showReadingTime = true
+  # 显示目录
+  showTableOfContents = true
+  # 显示相关文章
+  showRelatedContent = true
+  # 设置相关文章的显示数量
+  relatedContentLimit = 6
+  # 显示分类标签
+  showTaxonomies = true 
+  # 显示作者徽章
+  showAuthorsBadges = true 
+  # 不显示文章字数
+  showWordCount = false
+  # 设置分享链接平台
+  sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  # 启用 Zen 模式
+  showZenMode = true
+
+[list]
+  # 显示列表页头图
+  showHero = true
+  # 设置列表页头图的风格
+  heroStyle = "background" 
+  # 启用背景模糊效果（仅在heroStyle为background时有效）
+  layoutBackgroundBlur = true 
+  # 禁用为背景图像设置页眉空间
+  layoutBackgroundHeaderSpace = false
+  # 不显示面包屑导航
+  showBreadcrumbs = false
+  # 不显示文章摘要
+  showSummary = false
+  # 不显示浏览量
+  showViews = false
+  # 不显示点赞数
+  showLikes = false
+  # 显示目录
+  showTableOfContents = true
+  # 显示卡片视图
+  showCards = true
+  # 按权重排序列表
+  orderByWeight = true
+  # 不按年份分组
+  groupByYear = false
+  # 启用卡片视图
+  cardView = true
+  # 禁用根据屏幕宽度切换卡片视图
+  cardViewScreenWidth = false
+  # 不限制项目宽度
+  constrainItemsWidth = false
+
+[sitemap]
+  # 设置不包含在站点地图中的内容类型
+  excludedKinds = []
+
+[taxonomy]
+  # 显示分类项的数量
+  showTermCount = true
+  # 显示分类页头图
+  showHero = true
+  # 设置分类页头图的风格
+  heroStyle = "background" 
+  # 不显示面包屑导航
+  showBreadcrumbs = false
+  # 不显示浏览量
+  showViews = false
+  # 不显示点赞数
+  showLikes = false
+  # 显示目录
+  showTableOfContents = true
+  # 禁用卡片视图
+  cardView = false
+
+[term]
+  # 显示术语页头图
+  showHero = true
+  # 设置术语页头图的风格
+  heroStyle = "background" 
+  # 不显示面包屑导航
+  showBreadcrumbs = false
+  # 不显示浏览量
+  showViews = false
+  # 不显示点赞数
+  showLikes = false
+  # 显示目录
+  showTableOfContents = true
+  # 不按年份分组
+  groupByYear = false
+  # 启用卡片视图
+  cardView = true
+  # 禁用根据屏幕宽度切换卡片视图
+  cardViewScreenWidth = false
+  
+[firebase]
+  # 用于Firebase项目的配置信息
+  #apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
+  #authDomain = "blowfish-21fff.firebaseapp.com"
+  #projectId = "blowfish-21fff"
+  #storageBucket = "blowfish-21fff.appspot.com"
+  #messagingSenderId = "60108104191"
+  #appId = "1:60108104191:web:039842ebe1370698b487ca"
+  #measurementId = "G-PEDMYR1V0K"
+
+[fathomAnalytics]
+  # 配置Fathom分析工具的信息
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[umamiAnalytics]
+  # 配置Umami分析工具的信息
+  # websiteid = "ABC12345"
+  # domain = "llama.yoursite.com"
+  # dataDomains = "yoursite.com,yoursite2.com"
+  # enableTrackEvent = false
+
+[selineAnalytics]
+  # 配置Seline分析工具的信息
+  # token = "XXXXXX"
+  # enableTrackEvent = false
+
+[buymeacoffee]
+  # 配置“Buy Me a Coffee”标识符
+  identifier = "nunocoracao"
+  # 全局显示“Buy Me a Coffee”小部件
+  globalWidget = true
+  # 小部件显示的信息
+  globalWidgetMessage = ""
+  # 小部件的颜色
+  globalWidgetColor = "#FFDD00"
+  # 小部件的位置
+  globalWidgetPosition = "Right"
+
+[verification]
+  # 配置搜索引擎或平台的验证代码
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""

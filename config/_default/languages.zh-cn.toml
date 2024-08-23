@@ -1,0 +1,25 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 4
+title = "北海北"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/blowfish_logo_transparent.png"
+  description = "分享编程技巧与技术见解的个人博客。"
+  copyright = "版权？当然是我的！:wink:  © 2024 马金海"
+
+[author]
+  name = "北海北"
+  email = "jinhai.ma@icloud.com"
+  image = "img/logo.jpg"
+  headline = "技术爱好者与创作者，分享编程与开发的精彩"
+  bio = "我是马金海，一名技术博主和开发者。我热衷于编程、前端和后端技术，并致力于通过我的博客分享有价值的编程技巧、工具使用指南和项目经验。我有多年的开发经验，擅长使用 Python 和 JavaScript 进行项目开发。在这里，你将找到关于 C++、Android 开发、Linux 配置和 AI 部署的深度文章。我希望通过我的分享，帮助更多的人掌握技术并解决实际问题。"
+  links = [
+    { email = "mailto:jinhai.ma@icloud.com" },
+    { tiktok = "https://v.douyin.com/ir3DatCr/" },
+    { github = "https://github.com/Beihai-North" },
+  ]
